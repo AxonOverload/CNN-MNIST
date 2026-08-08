@@ -20,5 +20,3 @@ Optimization: Updated weights, biases, and convolutional filters using Stochasti
 Accuracy achieved on the test set:
 - CNN in NumPy — 97.57% MNIST
 - CNN in PyTorch — 98.86% MNIST
-| **CNN in PyTorch** | **98.86%** |
-| **CNN in NumPy** | **97.57%** |
